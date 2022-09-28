@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennethalbert&label=Profile%20views&color=0e75b6&style=flat" alt="kennethalbert" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@RoffAlbert" target="blank"><img src="https://img.shields.io/twitter/follow/kosma roff albert?logo=twitter&style=for-the-badge" alt="kosma roff albert" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@RoffAlbert" target="blank"><img src="https://img.shields.io/twitter/follow/@RoffAlbert?logo=twitter&style=for-the-badge" alt="@RoffAlbert" /></a> </p>
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
